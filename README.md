@@ -3,7 +3,11 @@
 
 I’m a passionate software developer with a strong focus on full-stack development and a growing interest in cloud platform engineering. My journey began with a curiosity about solving real-world problems, which has since evolved into a dedication to creating robust, user-friendly applications. While I’m proficient across various areas, including full-stack development and leveraging cloud resources, I’m especially enthusiastic about exploring cloud technologies to build scalable, resilient systems.
 
+<br>
+
 ---
+
+<br>
 
 ## ✏️ Languages and Tools  
 <img align="left" alt="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />  
@@ -16,6 +20,8 @@ I’m a passionate software developer with a strong focus on full-stack developm
 <img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
 <img align="left" alt="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
+
+<br>
 
 ---
 
@@ -34,7 +40,9 @@ I’m a passionate software developer with a strong focus on full-stack developm
 - **Azure Cloud Enthusiast**:  
   I have a strong appreciation for cloud technologies and am dedicated to learning and deploying with Azure. Using Azure resources, I aim to make applications scalable, secure, and resilient.
 
-#
+<br>
+
+---
 
 ### 💡 Key Projects  
 - **Azure**: Developed applications leveraging Azure resources to improve scalability, security, and resilience, incorporating cloud-based solutions that support modern, distributed architectures.
@@ -46,5 +54,3 @@ I’m a passionate software developer with a strong focus on full-stack developm
 - **Console Applications**: Created versatile console applications that emphasize efficient data processing and automation, showcasing a deep understanding of core programming concepts and problem-solving skills.
 
 - **Unit Testing**: Implemented comprehensive unit tests to ensure code reliability, maintainability, and performance, applying best practices in testing methodologies to enhance overall application quality.
-
----
