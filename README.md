@@ -3,8 +3,6 @@
 
 I’m a passionate software developer with a strong focus on full-stack development and a growing interest in cloud platform engineering. My journey began with a curiosity about solving real-world problems, which has since evolved into a dedication to creating robust, user-friendly applications. While I’m proficient across various areas, including full-stack development and leveraging cloud resources, I’m especially enthusiastic about exploring cloud technologies to build scalable, resilient systems.
 
----
-
 ## ✏️ Languages and Tools  
 <img align="left" alt="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />  
 <img align="left" alt="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
