@@ -20,6 +20,9 @@ I’m a passionate software developer with a strong focus on full-stack developm
 #
 
 ## 🚀 Technical Skills  
+- **Azure Cloud Enthusiast**:  
+  I have a strong appreciation for cloud technologies and am dedicated to learning and deploying with Azure. Using Azure resources, I aim to make applications scalable, secure, and resilient.
+
 - **Full-Stack MVC Development**:  
   Experienced in building multi-role applications using ASP.NET Core MVC, where users have specific functionalities depending on their roles. My projects emphasize streamlined workflows, role-based permissions, and transparent status tracking, with a strong focus on data integrity and security. Additionally, I implement file upload handling with customized restrictions to ensure seamless, secure user interactions.
 
@@ -31,12 +34,9 @@ I’m a passionate software developer with a strong focus on full-stack developm
 - **Frontend Development**:  
   With expertise in HTML, CSS, JavaScript, and Razor syntax, I create intuitive, responsive user interfaces that enhance user experience and meet the specific needs of every project.
 
-- **Azure Cloud Enthusiast**:  
-  I have a strong appreciation for cloud technologies and am dedicated to learning and deploying with Azure. Using Azure resources, I aim to make applications scalable, secure, and resilient.
-
 #
 
-### 💡 Key Projects  
+## 💡 Key Projects  
 - **Azure**: Developed applications leveraging Azure resources to improve scalability, security, and resilience, incorporating cloud-based solutions that support modern, distributed architectures.
 
 - **MVC Applications**: Developed robust multi-role MVC applications using ASP.NET Core, with functionalities tailored to specific user roles. These applications include role-based workflows, status tracking, file handling with secure upload restrictions, and seamless user interactions.
