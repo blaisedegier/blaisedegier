@@ -1,88 +1,58 @@
-# 🏄 Blaise Mikka de Gier  
+# Blaise de Gier
 
-## Coding Enthusiast
+Full-stack software engineer in Durban, South Africa. Mostly .NET and Angular, and whatever else a
+problem needs.
 
-I’m a passionate software developer with a strong focus on full-stack development and a growing interest in cloud platform engineering. My journey began with a curiosity about solving real-world problems, which has since evolved into a dedication to creating robust, user-friendly applications. While I’m proficient across various areas, including full-stack development and leveraging cloud resources, I’m especially enthusiastic about exploring cloud technologies to build scalable and resilient systems.
+At The Development Company I work on a finance and stock platform for a clothing manufacturer that
+posts to Xero, a factory-floor app that runs on Android and iOS, and the payments and encrypted uploads
+behind an estate-planning service. That work lives in private repositories, so what you see here is the
+code I can share.
 
-## ✏️ Languages and Tools  
+I like being lazy in the productive sense: finding the route that removes the work rather than grinding
+through it. Tickless, below, is that idea in practice. It schedules jobs without adding a single table,
+because the deadline you care about already lives in yours.
 
-<img align="left" alt="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Android Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Angular.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="React.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Angular.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Oracle SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+## Projects
 
-<br>
-<br>
-<hr>
+- **[Tickless](https://github.com/blaisedegier/Tickless)** - an in-process job scheduler for .NET that
+  owns no tables. Handlers rebuild outstanding work from your own domain data on start-up.
+  On [NuGet](https://www.nuget.org/packages/Tickless).
+- **[CloudScout](https://github.com/blaisedegier/CloudScout)** - a command-line tool that suggests a
+  category for every document in OneDrive, Google Drive or Dropbox. Cheap filename and text checks run
+  first, and a language model running on your own machine only sees what they cannot settle.
+- **[MetadataTaggingAI](https://github.com/blaisedegier/MetadataTaggingAI)** - tags a photo library from
+  its folder names and Azure AI Vision, then writes the keywords into each image as IPTC and XMP metadata.
 
-## 🚀 Technical Skills  
+## Smaller builds
 
-- **Cloud Enthusiast**:
+- [azure-storage-ecommerce-mvc](https://github.com/blaisedegier/azure-storage-ecommerce-mvc) - an
+  ASP.NET Core MVC sneaker shop that keeps everything in Azure Table, Blob, Queue and File storage, with
+  PDF invoices.
+- [craft-store-mvc-azure-functions](https://github.com/blaisedegier/craft-store-mvc-azure-functions) - a
+  craft store on ASP.NET Identity and EF Core, whose order confirmation and payment run as an Azure
+  Durable Functions orchestration.
+- [angular-fakestore-demo](https://github.com/blaisedegier/angular-fakestore-demo) - an Angular
+  storefront on the Fake Store API with filtering, sorting, a cart and a validated contact form.
+- [CarGPT](https://github.com/blaisedegier/CarGPT) - a car Q&A API that retrieves from a local knowledge
+  base with Cohere embeddings before answering.
+- [cinema-booking-mvc](https://github.com/blaisedegier/cinema-booking-mvc) and
+  [task-manager-mvc](https://github.com/blaisedegier/task-manager-mvc) - ASP.NET Core MVC apps for
+  booking tickets against seat availability and for managing tasks.
+- [wpf-finance-tracker](https://github.com/blaisedegier/wpf-finance-tracker) and
+  [grocery-inventory-winforms](https://github.com/blaisedegier/grocery-inventory-winforms) - desktop apps
+  for budgets and for stock control with a restock queue.
+- [winforms-calculator](https://github.com/blaisedegier/winforms-calculator),
+  [cafe-order-winforms](https://github.com/blaisedegier/cafe-order-winforms) and
+  [shopping-cart-oop-console](https://github.com/blaisedegier/shopping-cart-oop-console) - small C# apps
+  built around events, input validation and inheritance.
+- [ValentinesGame](https://github.com/blaisedegier/ValentinesGame) - a WPF prompt where the No button
+  runs away.
 
-  I have a strong appreciation for cloud technologies and am dedicated to learning and deploying with Azure and AWS. Using cloud resources, I aim to make applications scalable, secure and resilient.
+## Stack
 
-- **Full-Stack Development**:
+C#, TypeScript, SQL. ASP.NET Core, Entity Framework Core, Angular, Ionic and Capacitor. SQL Server and
+PostgreSQL. Azure and AWS. GitHub Actions.
 
-  Experienced in building multi-role applications using ASP.NET Core MVC, where users have specific functionalities depending on their roles. My projects emphasise streamlined workflows, role-based permissions, and transparent status tracking, with a strong focus on data integrity and security. Additionally, I have experience in building full-scale native apps in Android Studio.
+## Elsewhere
 
-- **Frontend Development**:
-
-  With expertise in JavaScript frameworks such as Angular and the MERN stack, I create intuitive and responsive user interfaces that enhance user experience and meet the specific needs of every project.
-
-- **Backend Development**:
-
-  I’m skilled in handling data and optimising server-side processes. My experience includes:
-
-  - **SQL**: Proficient with SQL Server, Oracle SQL, SQLite and MySQL- enabling me to design efficient databases and write optimised queries.
-
-  - **MongoDB**: Leveraging NoSQL capabilities for flexible data storage solutions.
-
-<hr>
-
-## 💡 Key Projects  
-
-- **Cloud-Native Solutions (Azure & AWS)**:
-
-  Architected and deployed scalable applications leveraging a multi-cloud approach. Key implementations include:
-
-  - **Storage & Databases**: Utilising **AWS S3** for secure object storage and **RDS** for managed relational data.
-
-  - **Messaging & Scalability**: Implementing **AWS SQS** for decoupled microservices and asynchronous processing.
-
-  - **Engagement**: Integrating real-time **Push Notifications** and **Azure** resources to ensure high availability and resilient system performance.
-
-- **Cross-Platform & Native Mobile Development**:
-
-  Developed high-performance mobile applications using a variety of modern frameworks:
-
-  - **Native Android**: Built robust apps using **Android Studio** and **Kotlin/Java** for deep OS integration.
-
-  - **Hybrid Solutions**: Leveraged **Capacitor** in conjunction with **Angular** to bridge web technologies with native mobile functionality, streamlining the development lifecycle for multi-platform deployment.**Enterprise-Grade UI/UX**: Focused on delivering sophisticated user interfaces for complex data environments. Specialized in using **DevExpress** and **DevExtreme** to create high-performance grids, interactive charts, and responsive dashboards that enhance data visualization and user productivity in **WPF** and **Web** applications.
-
-- **Role-Based MVC Applications**:
-
-  Developed multi-role **ASP.NET Core MVC** systems featuring granular security protocols. These projects include custom role-based workflows, automated status tracking, and secure file handling with strict validation to ensure data integrity and protection.
-
-- **Quality Assurance & DevOps Automation**: Dedicated to maintaining high code standards through automated pipelines and continuous inspection:
-
-  - **CI/CD Pipelines**: Engineered automated workflows using **GitHub Actions** to streamline building, testing, and deployment phases, reducing manual overhead and deployment risks.
-
-  - **Code Quality & Security**: Integrated **SonarQube** into the development lifecycle to perform static code analysis, ensuring adherence to clean code principles, identifying "code smells," and proactively catching security vulnerabilities.
-
-  - **Automated Testing**: Developed comprehensive **Unit Testing** suites and optimised **Console Applications** for high-speed data processing, ensuring system reliability and performance under heavy loads.
-
-<hr>
+[LinkedIn](https://www.linkedin.com/in/blaise-degier)
